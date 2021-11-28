@@ -1,0 +1,9 @@
+{
+  "data": [
+    {
+      "humidity": 42,
+      "temperature": 25.9,
+      "id": "1"
+    }
+  ]
+}
